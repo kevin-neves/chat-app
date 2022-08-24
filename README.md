@@ -43,3 +43,9 @@ To run the application:
 ```
 go run cmd/web/*.go
 ```
+
+### The final app
+
+Enter `http://localhost:8080` with different browsers and you should be able to connect to the app and send messages.
+
+![Alt text](https://raw.githubusercontent.com/kevin-neves/chat-app/main/Chat-app.png)
